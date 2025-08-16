@@ -1,6 +1,6 @@
-# EnumPath Pro v3.0
-## Advanced Windows Domain Exploitation Framework
-### RED TEAM LAB EDITION
+# EnumPath
+## Advanced Windows Domain Exploitation Framework By 1x0DF0
+### RED TEAM EDITION
 
 ![Version](https://img.shields.io/badge/version-3.0-red)
 ![Python](https://img.shields.io/badge/python-3.x-blue)
@@ -9,8 +9,6 @@
 
 ---
 
-## ⚠️ DISCLAIMER
-**This tool is designed EXCLUSIVELY for authorized penetration testing in controlled lab environments. Use ONLY on systems you own or have explicit written permission to test. Unauthorized use is illegal and unethical.**
 
 ---
 
